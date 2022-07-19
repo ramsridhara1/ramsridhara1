@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data
 - 🌱 I’m currently working as a Data Engineer
 - 💞️ I’m looking to collaborate on Data Engineering and pipeline
-- 📫 How to reach me ...
+- 📫 How to reach me rams.sridhara@gmail.com
 
 <!---
 ramsridhara1/ramsridhara1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
